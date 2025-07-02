@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				golden: 'hsl(var(--golden))',
+				'golden-dark': 'hsl(var(--golden-dark))',
+				sunflower: 'hsl(var(--sunflower))',
+				earth: 'hsl(var(--earth))',
+				growth: 'hsl(var(--growth))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
